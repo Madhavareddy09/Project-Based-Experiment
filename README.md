@@ -162,8 +162,10 @@ endmodule
 
 **Output Timing Waveform**
 
+![image](https://github.com/Madhavareddy09/Project-Based-Experiment/assets/145742470/6e37ff28-56cf-49ff-af7b-90be4e960459)
 
 **Result:**
+
 Thus the design and simulate the traffic light controller are successfullt executed.
 
 
